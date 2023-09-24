@@ -1,6 +1,6 @@
 #root{
     background: linear-gradient(to right, skyblue, aqua);
-    height: 100vh;
+    min-height: 100vh;
     padding-top: 20px;
 }
 
@@ -36,7 +36,7 @@ form input{
 }
 
 form button{
-    width: 10%;
+    padding: 20px;
     background-color: aqua;
     color: white;
     font-size: 32px;
